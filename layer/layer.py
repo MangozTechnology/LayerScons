@@ -9,8 +9,8 @@ class Layer:
   undoId = 0
   redoId = 0
 
-  def CreateNewLayerA(Layer, points):
+  def CreateNewLayerA(layer, points):
     any()
     
-  def CreateNewLayerW(Layer, points, label):
+  def CreateNewLayerW(layer, points, label):
     any()
